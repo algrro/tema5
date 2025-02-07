@@ -43,7 +43,7 @@ $resultado = $calculadora->raiz($a); // Solo toma el valor de $a
 </form>
 <?php if ($resultado !== ''): ?>
 <div>
-<h2>Resultado: <?php echo $resultado; ?></h2>
+<h2>Resultados: <?php echo $resultado; ?></h2>
 </div>
 <?php endif; ?>
 </div>
