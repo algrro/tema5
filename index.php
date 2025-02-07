@@ -38,7 +38,7 @@ $resultado = $calculadora->raiz($a); // Solo toma el valor de $a
 <button type="submit" name="resta">Resta</button>
 <button type="submit" name="multiplicacion">Multiplica</button>
 <button type="submit" name="division">Divide</button>
-<button type="submit" name="raiz">Raíz cuadrada</button>
+<button type="submit" name="raiz">Raíz </button>
 </div>
 </form>
 <?php if ($resultado !== ''): ?>
