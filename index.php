@@ -24,7 +24,7 @@ $resultado = $calculadora->raiz($a); // Solo toma el valor de $a
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Calculadora PHP</title>
+<title>Calculador PHP</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
