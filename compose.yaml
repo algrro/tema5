@@ -1,0 +1,7 @@
+services:
+  php:
+    image: algrro/calculadora:v1
+    container_name: contenedorCalculadora
+    ports:
+      - "8080:80"
+ 
